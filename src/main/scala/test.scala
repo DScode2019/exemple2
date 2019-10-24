@@ -113,7 +113,7 @@ object demo {
     //les  composants principales
     val evs = es.eigenvectors
     val n = centrer_reduite * evs
-    // println(n)
+     println(n)
 
 
     //les contribution des individue
